@@ -1,0 +1,14 @@
+origen,destino,minutos_hipoteticos
+Bodega,Centro,4
+Bodega,Norte,8
+Bodega,Sur,10
+Centro,Norte,2
+Centro,Este,8
+Centro,Sur,7
+Norte,Este,3
+Norte,Parque,8
+Este,Parque,4
+Este,Cliente,11
+Sur,Este,2
+Sur,Cliente,10
+Parque,Cliente,3

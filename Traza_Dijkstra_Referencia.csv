@@ -1,0 +1,8 @@
+paso,fijado,relajaciones,Bodega,Centro,Norte,Este,Sur,Parque,Cliente
+1,Bodega,Centro=4; Norte=8; Sur=10,0,4,8,∞,10,∞,∞
+2,Centro,Norte=6; Este=12,0,4,6,12,10,∞,∞
+3,Norte,Este=9; Parque=14,0,4,6,9,10,14,∞
+4,Este,Parque=13; Cliente=20,0,4,6,9,10,13,20
+5,Sur,Sin cambios,0,4,6,9,10,13,20
+6,Parque,Cliente=16,0,4,6,9,10,13,16
+7,Cliente,Sin cambios,0,4,6,9,10,13,16
